@@ -9,4 +9,4 @@ for h in range(n + 1):
             if '3' in str(h) + str(m) + str(s):
                 res += 1
 
-print(res)제
+print(res)
